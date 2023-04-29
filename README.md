@@ -1,4 +1,4 @@
-Here is my list of the useful libraries in C and C++ for compression that I found so far.
+Here is my list of the useful libraries in C and C++ for compression that I have found so far.
 
 # 11Zip
 [Link](https://github.com/Sygmei/11Zip), C++
