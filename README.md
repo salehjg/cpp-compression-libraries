@@ -20,3 +20,6 @@ Here is my list of the useful libraries in C and C++ for compression that I have
 
 # Gzip
 [Link](https://www.gnu.org/software/gzip/), C
+
+# QuaZip
+[Link](https://github.com/stachenov/quazip), C++
