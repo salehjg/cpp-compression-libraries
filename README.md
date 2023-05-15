@@ -12,6 +12,9 @@ Here is my list of the useful libraries in C and C++ for compression that I have
 # zipper
 [Link](https://github.com/Lecrapouille/zipper), C++
 
+# zstr
+[Link](https://github.com/mateidavid/zstr), C++
+
 # minizip-ng
 [Link](https://github.com/zlib-ng/minizip-ng), C
 
