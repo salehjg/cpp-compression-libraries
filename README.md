@@ -6,6 +6,9 @@ Here is my list of the useful libraries in C and C++ for compression that I have
 # bit7z
 [Link](https://github.com/rikyoz/bit7z), C++
 
+# LibZippp
+[Link](https://github.com/ctabin/libzippp), C++
+
 # zipper
 [Link](https://github.com/Lecrapouille/zipper), C++
 
