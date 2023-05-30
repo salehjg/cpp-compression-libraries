@@ -21,6 +21,9 @@ Here is my list of the useful libraries in C and C++ for compression that I have
 # zlib-ng
 [Link](https://github.com/zlib-ng/zlib-ng)
 
+# LibZip
+[Link](https://github.com/nih-at/libzip), C
+
 # boost::iostream::gzip
 [Doc](https://www.boost.org/doc/libs/1_62_0/libs/iostreams/doc/classes/gzip.html), [Example](https://stackoverflow.com/questions/70624519/boost-gzip-how-to-output-compressed-string-as-text), C++
 
